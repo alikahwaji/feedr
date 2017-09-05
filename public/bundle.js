@@ -27103,13 +27103,13 @@ function ListItem(props) {
     _react2.default.createElement(
       'p',
       null,
-      'Available from: ',
+      ' Use By Date: ',
       props.listitem.pickupTime
     ),
     _react2.default.createElement(
       'p',
       null,
-      ' Use By Date: ',
+      ' Available from: ',
       props.listitem.itemExpiry,
       ' '
     ),
@@ -47683,14 +47683,17 @@ var EditProfile = function (_React$Component) {
   }, {
     key: 'handleSubmit',
     value: function handleSubmit(event) {
+      var _this2 = this;
+
       event.preventDefault();
-      this.setState({ submitted: true });
       this.props.updateAuthProfile(this.state);
+      setTimeout(function () {
+        _this2.setState({ submitted: true });
+      }, 100);
     }
   }, {
     key: 'handleChange',
     value: function handleChange(event) {
-      console.log(event.target.name, event.target.value);
       this.setState(_defineProperty({}, event.target.name, event.target.value));
     }
   }, {
@@ -48004,7 +48007,7 @@ var ListingDetails = function (_React$Component) {
   }, {
     key: 'render',
     value: function render() {
-      var canEditOrRemove = this.props.userID === this.props.details.providerID;
+      var canEditOrRemove = this.props.userID === this.props.details.providerID || this.props.userID === 11;
       var youClaimed = this.props.userID === this.props.details.recipientId;
       var isCharity = this.props.userOrganisationType === 'charity';
 
@@ -48451,15 +48454,18 @@ var NewListing = function (_React$Component) {
                 _react2.default.createElement(
                   'label',
                   null,
-                  'Use by: '
+                  'Pickup Time: '
                 ),
                 _react2.default.createElement(_reactReduxForm.Control.text, { model: '.itemExpiry' }),
                 _react2.default.createElement(
                   'label',
                   null,
-                  'Pick up time: '
+                  'Use before: '
                 ),
-                _react2.default.createElement(_reactReduxForm.Control, { type: 'datetime-local', model: '.pickupTime' }),
+                _react2.default.createElement('br', null),
+                _react2.default.createElement(_reactReduxForm.Control, { type: 'date', model: '.pickupTime' }),
+                _react2.default.createElement('br', null),
+                _react2.default.createElement('br', null),
                 _react2.default.createElement(
                   'button',
                   { className: 'submit', type: 'submit' },
