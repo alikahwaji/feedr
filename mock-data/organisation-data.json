@@ -1,0 +1,37 @@
+[
+  {
+    id: 1,
+    name: 'Salvation Army',
+    address: '18 Allright Place, Mt Wellington, Auckland 1060.',
+    phone: '09 379 7615',
+    type: 'charity'
+  },
+  {
+    id: 2,
+    name: 'Auckland City Mission',
+    address: '140 Hobson Street, Auckland Central.',
+    phone: '09 303 9200',
+    type: 'charity'
+  },
+  {
+    id: 3,
+    name: 'Oxfam',
+    address: 'Level 1, 14 West St, Eden Terrace, Auckland 1010.',
+    phone: '09355 6500',
+    type: 'charity'
+  },
+  {
+    id: 4,
+    name: 'VisionWest Food Bank',
+    address: 'VisionWest Community Trust, Building12 &16, 95-97 Glendale Road, Glen Eden, Auckland0602.',
+    phone: '09 818 0716',
+    type: 'charity'
+  },
+  {
+    id: 5,
+    name: 'KidsCan',
+    address: '7 Beatrice Tinsley Crescent, Albany, Auckland 0632.',
+    phone: '09 478 1525',
+    type: 'charity'
+  },
+]
