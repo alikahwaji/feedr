@@ -6,8 +6,11 @@ Our App Dynasty
 ```
 npm run start
 ```
-![Alt text](feedr/public/images/feedr-1\ copy.pdf?raw=true "Optional Title")
+
 ----
+
+[feedr-1 copy.pdf](https://github.com/james-inglis-01/conways/files/1287622/feedr-1.copy.pdf)
+
 ### User stories
 
 As a business owner I want to be able to……..
