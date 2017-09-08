@@ -6,7 +6,7 @@ Our App Dynasty
 ```
 npm run start
 ```
-
+![Alt text](feedr/public/images/feedr-1\ copy.pdf?raw=true "Optional Title")
 ----
 ### User stories
 
