@@ -9,8 +9,6 @@ npm run start
 
 ----
 
-[feedr screenshot](https://github.com/james-inglis-01/feedr/public/images/feedr-1.copy.pdf)
-
 ### User stories
 
 As a business owner I want to be able to……..
