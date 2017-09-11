@@ -9,13 +9,7 @@ npm run start
 
 ----
 
-![ScreenShot](feedr-1.copy.pdf?raw=true)
-
-[feedr screenshot](https://github.com/james-inglis-01/feedr/public/images/feedr-1.copy.pdf?raw=true)
-
-<p>
-  <img src='github.com/james-inglis-01/feedr/public/images/feedr-1.copy.pdf'/>
-</p>
+[feedr screenshot](https://github.com/james-inglis-01/feedr/public/images/feedr-1.copy.pdf)
 
 ### User stories
 
