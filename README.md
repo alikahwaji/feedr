@@ -9,7 +9,7 @@ npm run start
 
 ----
 
-![ScreenShot](feedr-1.copy.pdf raw=true)
+![ScreenShot](feedr-1.copy.pdfraw=true)
 
 [feedr-1 copy.pdf](https://github.com/james-inglis-01/conways/files/1287622/feedr-1.copy.pdf)
 
