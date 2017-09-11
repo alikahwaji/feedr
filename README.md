@@ -1,5 +1,7 @@
-# less-fortunate
+# feedr
 Our App Dynasty
+
+![feedr-1](https://user-images.githubusercontent.com/24688093/30269087-dad83d9e-973b-11e7-8152-0b9d184d31cf.jpg)
 
 #### How to get running?
 
@@ -63,13 +65,3 @@ Technologies
 - ///GoogleMaps API///
 - ///Auth APIs///
 - Document-oriented database
-
-----
-
-### Names
-
------
-#### less fortunate
-#### feedMe
-#### feedThem
-#### feedr
