@@ -14,7 +14,7 @@ npm run start
 [feedr screenshot](https://github.com/james-inglis-01/feedr/public/images/feedr-1.copy.pdf?raw=true)
 
 <p>
-  <img src='james-inglis-01/feedr/public/images/feedr-1.copy.pdf'/>
+  <img src='github.com/james-inglis-01/feedr/public/images/feedr-1.copy.pdf'/>
 </p>
 
 ### User stories
