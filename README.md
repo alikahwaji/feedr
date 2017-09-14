@@ -2,6 +2,8 @@
 
 ![feedr-1](https://user-images.githubusercontent.com/24688093/30269087-dad83d9e-973b-11e7-8152-0b9d184d31cf.jpg)
 
+![feedr-3](https://user-images.githubusercontent.com/24688093/30417922-6e255e06-9985-11e7-88c1-c9493b965140.jpg)
+
 #### How to get running?
 
 ```
