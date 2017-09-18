@@ -7,7 +7,8 @@
 #### How to get running?
 
 ```
-npm run start
+npm i
+npm start
 ```
 
 ----
